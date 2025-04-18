@@ -1,4 +1,4 @@
-module moduleName #(
+module traffic_light #(
     parameter CYCLE_RED = 5,
     parameter CYCLE_RED_YELLOW = 2,
     parameter CYCLE_GREEN = 5,
